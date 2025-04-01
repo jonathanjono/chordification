@@ -9,19 +9,19 @@ This project is a **real-time chord detection system** that uses:
 
 It allows musicians to **detect chords in real-time**, **transpose them to a different key**, and **display them in a simple interface**, imitating **human's relative pitch system**.
 
-## 📂 Dataset and Training Script
+## Dataset and Training Script
 The dataset and training script is from Kaggle:  
 [GUITAR CHORDS V3](https://www.kaggle.com/datasets/fabianavinci/guitar-chords-v3)
 [Guitar Chord Classification (95% Accuracy)](https://www.kaggle.com/code/akshaysom/guitar-chord-classification-test-accuracy-95)
 
 ---
 
-## ✨ Features
-✅ **Speech Recognition** – Users can **speak** the mode and key they want.  
-✅ **Real-time Audio Processing** – Captures and processes live audio input.  
-✅ **Machine Learning Model** – Predicts chords with **TensorFlow Lite**.  
-✅ **Automatic Transposition** – Adjusts detected chords to match the **selected key**.  
-✅ **User-Friendly GUI** – Displays detected chords with **Flet**.  
+## Features
+**Speech Recognition** – Users can **speak** the mode and key they want.  
+**Real-time Audio Processing** – Captures and processes live audio input.  
+**Machine Learning Model** – Predicts chords with **TensorFlow Lite**.  
+**Automatic Transposition** – Adjusts detected chords to match the **selected key**.  
+**Simple and plain GUI** – Displays detected chords with **Flet**.  
 
 ### Transposition System
 **Mapping Keys**: 
@@ -33,7 +33,7 @@ The dataset and training script is from Kaggle:
 
 ---
 
-## 🔧 Installation
+## Installation
 Dependencies:
 
 ```sh
